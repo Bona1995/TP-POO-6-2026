@@ -1,5 +1,5 @@
 # TP-POO-6-2026
-Trabajo practico final integrado para la materia de Programacion orientada a objetos, en la carrera de Tecnicatura superior en desarrollo de softaware, cursada en ITFS 18º Caba.
+Trabajo practico final integrador para la materia de Programacion orientada a objetos, en la carrera de Tecnicatura superior en desarrollo de softaware, cursada en ITFS 18º Caba.
 
 GESTOR ONLINE BDD: https://sqliteviewer.app/
 
